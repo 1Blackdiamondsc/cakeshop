@@ -41,7 +41,7 @@
         "epoch-charting-ie-patched": "0.8.4-patched",
         "ethers": "^5.0.32",
         "jif-dashboard": "^1.0.0",
-        "jquery": "3.5.1",
+        "jquery": "3.6.0",
         "jquery-slimscroll": "^1.3.8",
         "jquery-ui-dist": "^1.12.1",
         "moment": "^2.29.1",
