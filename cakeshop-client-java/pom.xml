@@ -15,7 +15,7 @@
   <name>Cakeshop Java Client</name>
 
   <properties>
-    <swagger.core.version>1.5.6</swagger.core.version>
+    <swagger.core.version>1.6.2</swagger.core.version>
     <feign.version>6.1.2</feign.version>
     <oltu.version>1.0.0</oltu.version>
   </properties>
