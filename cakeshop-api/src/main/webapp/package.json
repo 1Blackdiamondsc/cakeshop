@@ -30,7 +30,7 @@
         "@material-ui/core": "^4.11.3",
         "@material-ui/icons": "^4.11.2",
         "@material-ui/lab": "^4.0.0-alpha.55",
-        "@material-ui/styles": "^4.11.3",
+        "@material-ui/styles": "^4.11.4",
         "backbone": "^1.3.3",
         "bluebird": "^3.4.1",
         "bootstrap": "3.4.1",
