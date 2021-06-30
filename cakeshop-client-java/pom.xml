@@ -17,7 +17,7 @@
   <properties>
     <swagger.core.version>1.6.2</swagger.core.version>
     <feign.version>6.1.3</feign.version>
-    <oltu.version>1.0.0</oltu.version>
+    <oltu.version>1.0.2</oltu.version>
   </properties>
 
   <dependencies>
