@@ -36,7 +36,7 @@
         "bootstrap": "3.4.1",
         "bootstrap-tourist": "^0.3.2",
         "codemirror": "^5.59.2",
-        "d3": "^4.2.1",
+        "d3": "^7.0.0",
         "draggabilly": "^2.1.1",
         "epoch-charting-ie-patched": "0.8.4-patched",
         "ethers": "^5.3.0",
